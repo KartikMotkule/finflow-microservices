@@ -21,7 +21,7 @@ The platform demonstrates enterprise-level architecture including service discov
 
 ## Technology Stack
 
-- Java 21
+- Java 17
 - Spring Boot
 - Spring Cloud
 - Spring Security
